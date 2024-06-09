@@ -36,6 +36,7 @@ def locally_weighted_regression(x0, X, Y, tau):
     return y0
 
 def main():
+    st.write("22AIA-MACHINE MASTERS")
     st.title("Locally Weighted Regression")
     
     # Generate synthetic dataset
